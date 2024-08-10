@@ -136,23 +136,23 @@ A simple encryption class is defined to encrypt and decrypt user data using a XO
 <h2>What I learn?</h2>
 <ul>
   <li>
-    Basic GUI Development with Tkinter
+    Basic GUI Development with Tkinter: How to create a graphical user interface using Tkinter, including setting up the main window, adding buttons, and handling user interactions.
   </li>
   
   <li>
-    Integration with External APIs
+    Integration with External APIs: How to interact with the Unsplash API to fetch and display images, including constructing API requests, handling JSON responses, and managing API keys.
   </li>
   
   <li>
-    Handling Images with PIL
+    Handling Images with PIL: How to use the Python Imaging Library (PIL) to open, manipulate, and display images in a Tkinter application.
   </li>
   
   <li>
-    Using ttkbootstrap for Styling
+    Using ttkbootstrap for Styling: How to apply modern styles to Tkinter widgets using ttkbootstrap, including configuring button styles and themes.
   </li>
 
   <li>
-   Managing Application State
+   Managing Application State: How to manage application state and update the UI based on user actions, such as enabling/disabling buttons and displaying images.
   </li>
 </ul>
 <img src="https://imgur.com/a3Mckks.png">
