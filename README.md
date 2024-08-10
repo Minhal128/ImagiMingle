@@ -13,15 +13,15 @@
 <h1 align="center" id="title">Disclaimer</h1>
 <p>This application, ImagiMingle, is a Python-based Random Image Generator that utilizes the Unsplash API to fetch and display images. While the application is designed to provide a user-friendly experience, it is important to note the following:
 
-API Usage: This application relies on the Unsplash API, and its functionality is subject to changes in the API's terms of service and rate limits. Ensure you have a valid API key and adhere to Unsplash’s usage guidelines.
+<li>API Usage: This application relies on the Unsplash API, and its functionality is subject to changes in the API's terms of service and rate limits. Ensure you have a valid API key and adhere to Unsplash’s usage guidelines.</li>
 
-Error Handling: Although error handling is included, issues such as network errors, API rate limits, or unexpected data formats may affect functionality. Users are encouraged to report any issues encountered.
+<li>Error Handling: Although error handling is included, issues such as network errors, API rate limits, or unexpected data formats may affect functionality. Users are encouraged to report any issues encountered.</li>
 
-Data Privacy: The application does not collect personal data. However, be cautious when downloading and storing images to ensure compliance with copyright laws and Unsplash’s licensing terms.
+<li>Data Privacy: The application does not collect personal data. However, be cautious when downloading and storing images to ensure compliance with copyright laws and Unsplash’s licensing terms.</li>
 
-Dependencies: The application requires external libraries, including requests, tkinter, PIL, and ttkbootstrap. Ensure these dependencies are installed and updated to their compatible versions.
+<li>Dependencies: The application requires external libraries, including requests, tkinter, PIL, and ttkbootstrap. Ensure these dependencies are installed and updated to their compatible versions.</li>
 
-No Warranty: This application is provided "as is" without any warranties or guarantees. The author is not responsible for any damages or issues arising from the use of this application.
+<li>No Warranty: This application is provided "as is" without any warranties or guarantees. The author is not responsible for any damages or issues arising from the use of this application.</li>
 
 Please use this software responsibly and in accordance with applicable laws and guidelines.
 
