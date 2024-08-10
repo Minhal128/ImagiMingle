@@ -8,7 +8,7 @@
 
 <h2>🔎 Project Preview</h2>
 
-<img src="https://imgur.com/a/SzuoOgB.jpg" alt="Image Description">
+<img src="https://imgur.com/ZY5kBg9.jpg" alt="Image Description">
 
 <h1 align="center" id="title">Disclaimer</h1>
 <p>This application, ImagiMingle, is a Python-based Random Image Generator that utilizes the Unsplash API to fetch and display images. While the application is designed to provide a user-friendly experience, it is important to note the following:
