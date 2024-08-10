@@ -132,6 +132,30 @@ A simple encryption class is defined to encrypt and decrypt user data using a XO
 <li>Cross-Platform Compatibility</li>
 <li>ntegration with Other APIs</li>
 <p>
+
+<h2>What I learn?</h2>
+<ul>
+  <li>
+    Basic GUI Development with Tkinter
+  </li>
+  
+  <li>
+    Integration with External APIs
+  </li>
+  
+  <li>
+    Handling Images with PIL
+  </li>
+  
+  <li>
+    Using ttkbootstrap for Styling
+  </li>
+
+  <li>
+   Managing Application State
+  </li>
+</ul>
+<img src="https://imgur.com/a3Mckks.png">
   
 <h2>💖Hope you Like our work!</h2>
 
