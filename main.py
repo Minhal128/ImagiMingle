@@ -10,7 +10,7 @@ root.title("Image Generator")
 root.geometry("700x600")
 root.config(bg="grey")
 root.resizable(False, False)
-style = Style(theme="sandstone")
+style = Style(theme="sandstone")    
 
 style.configure('TButton', font=('Helvetica', 12), padding=10)
 style.configure('like.TButton', foreground='green', background='white')
